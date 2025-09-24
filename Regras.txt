@@ -1,0 +1,17 @@
+A instituição de ensino só opera em um turno (noite), e por isso seguem algumas regras:
+
+Um aluno só pode ter uma matrícula;
+
+Uma turma pode ter várias matrículas (alunos);
+
+Um curso só pode ter um coordenador;
+
+Um professor pode dar aula em várias turmas, e uma turma pode ter vários professores;
+
+Um professor pode dar aula em várias disciplinas;
+
+Um curso pode ter várias disciplinas;
+
+Uma disciplina pode ter várias avaliações;
+
+Um aluno pode ter várias horas complementares.
